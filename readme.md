@@ -1,6 +1,7 @@
 Welcome to Sasi's Portfolio Repository 👋
 
 Hi, I'm Sasi! 👨‍💻
+
 I'm an enthusiastic Machine Learning professional specializing in predictive modeling, data analysis, and Generative AI. With a passion for turning complex data into actionable insights, I focus on solving business challenges through innovative, data-centric solutions. I’m committed to using data to drive effective decision-making, delivering practical value through technical expertise and a collaborative approach.
 
 This repository showcases my projects and technical skills, highlighting the ways I leverage data to create impact.
