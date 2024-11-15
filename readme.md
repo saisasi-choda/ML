@@ -11,13 +11,23 @@ With hands-on experience in:
 Machine Learning & Generative AI:
 
   Developing predictive models, analyzing data, and deploying ML solutions
+
+  
   Languages & Frameworks: Python, Jupyter, Tensorflow, Scikit-learn, Keras,CNTK
+
+  
   Data Science & Machine Learning: Predictive Modeling, Generative AI, Data Engineering.
+
+  
   Cloud Platforms: Google Cloud Platform (GCP), Azure Machine Learning Studio, AWS 
+
+  
   DevOps Tools: Docker, Kubernettes,nerdctl
 
 
-Contact Information
+Contact Information:
+
+
 I’m open to connecting and discussing potential opportunities, knowledge sharing, and collaborative projects. Reach me here:
 
 
